@@ -60,8 +60,8 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 224722" src="https://github.com/user-attachments/assets/555c40f7-c2b3-4abb-8148-79849e774a43" />
 
 **Output:**
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 223430" src="https://github.com/user-attachments/assets/996eb8f5-dd58-4c87-905e-51f1a1c3a114" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 224802" src="https://github.com/user-attachments/assets/ab135af6-3e05-41b7-b994-3d39445d77a4" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 110129" src="https://github.com/user-attachments/assets/19582ec4-d0ac-404b-9775-0bfcccf63f33" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 110610" src="https://github.com/user-attachments/assets/62ee1ecb-b5ab-4359-bbf8-41ad86e6d020" />
 
 **RTL**
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 223303" src="https://github.com/user-attachments/assets/c50febee-9443-4c37-a4bb-d5de50e76c13" />
